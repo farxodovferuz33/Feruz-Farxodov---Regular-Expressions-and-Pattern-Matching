@@ -1,5 +1,7 @@
-# Feruz-Farxodov---Regular-Expressions-and-Pattern-Matching
+# Feruz-Farxodov-Regular-Expressions-and-Pattern-Matching
 I will work with the NORTHWIND database using the corresponding script from the previous topics.
+
+There are folders name with exercise X and inside 2 files report .docx and SQL .sql
 
 Regular Expressions and Pattern Matching in PostgreSQL
 
